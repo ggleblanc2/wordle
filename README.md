@@ -8,7 +8,7 @@ Here's what I came up with.  I based my GUI design on the New York Times online 
 
 ![Opening JFrame](readme-resources/wordle1.png)
 
-The GUI is 655 x 716 and should fit comfortably oiu n almost all modern monitors.
+The GUI is 655 x 716 and should fit comfortably on almost all modern monitors.
 
 Clicking the Help menu and the Instructions submenu give you the instructions dialog.  Here's the first part of the instructions dialog.
 
